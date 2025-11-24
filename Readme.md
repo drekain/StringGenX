@@ -1,43 +1,3 @@
-<!-- ✨ Animated Header (Top) -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
-
-<!-- 👤 Avatar + Typing Banner -->
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="100px" align="center">
-        <img src="https://files.catbox.moe/r2ga8f.jpg" width="90px" style="border-radius: 50%;" />
-      </td>
-      <td>
-        <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=600&lines=Hey+There,+This+is+Certified+Coder+%F0%9F%A5%80" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- 👁 Visitor Counter -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CertifiedCoders&style=flat-square" />
-</p>
-
-<!-- 🖼 Promo Image -->
-
-<p align="center">
-  <img src="https://files.catbox.moe/9g84fb.jpg" width="600" />
-</p>
-
-<!-- 📌 Try the Bot -->
-
-<p align="center">
-  <a href="https://t.me/SessionBuilderBot"><img src="https://img.shields.io/badge/Try%20Bot-@SessionBuilderBot-blue?style=for-the-badge&logo=telegram" /></a>
-</p>
-
----
 
 # 🤖 SessionBuilderBot
 
@@ -75,8 +35,9 @@ If you're the owner (via `OWNER_ID`), you get:
 ## 🚀 Deployment
 
 <p align="center">
-  <a href="https://railway.app/template/-jVtHa?referralCode=certified"><img src="https://img.shields.io/badge/Deploy--To--Railway-black?style=for-the-badge&logo=railway"/></a>
-  <a href="https://heroku.com/deploy?template=https://github.com/CertifiedCoders/StringGenerator"><img src="https://img.shields.io/badge/Deploy--To--Heroku-6762A6?style=for-the-badge&logo=heroku"/></a>
+ Heroku
+  Railway 
+  Local<a /></a>
 </p>
 
 ---
@@ -140,21 +101,3 @@ OWNER_ID=your_telegram_user_id
 
 ---
 
-## 🧠 Credits & Contact
-
-<p align="center">
-  <a href="https://t.me/CertifiedCoders"><img src="https://img.shields.io/badge/Support%20Group-Join-orange?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://t.me/CertifiedCodes"><img src="https://img.shields.io/badge/Channel-Updates-purple?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://t.me/CertifiedCoder"><img src="https://img.shields.io/badge/Owner-Message-red?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://youtube.com/@rajnisha3"><img src="https://img.shields.io/badge/Youtube-Subscribe-red?style=for-the-badge&logo=youtube" /></a>
-  <a href="https://instagram.com/rajnishthegreat"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" /></a>
-  <a href="mailto:rajnishmishraaa1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" /></a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
-
-<p align="center">
-  <strong>🧠 Built with vision by Certified Coders — enhancing your Telegram experience.</strong>
-</p>
